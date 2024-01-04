@@ -1,0 +1,31 @@
+body{
+    /* background-color:#581845 ; */
+   
+    text-align: center;
+    color: white;
+    height: 100%;
+    width: 100%;
+
+}
+.heading,h1{
+    text-shadow: 2px 2px 3px gray;
+    color: black;
+}
+
+.working button{
+    color:white;
+    background-color:black;
+    border: none;
+    width:100px;
+    height: 35px;
+    /* border-radius: 15px; */
+    font-weight: 400;
+}
+.img-fluid{
+    width: 250px;
+    height: 250px;
+}
+
+
+
+
